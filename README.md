@@ -8,3 +8,5 @@
 - 📝  &nbsp;I often blog about random tips/tricks and (mostly) Android [at] [Crushing C.O.D.E](https://crushingcode.nisrulz.com/)
 - ⚡️  &nbsp;Fun fact about me: I love playing 🕹retro games and survive on ☕️ instead of energy drinks 🙇🏻‍♂️ Aparantly this is why I also talk a lot 🤔
 - 📫  &nbsp;Reach me [at] [nisrulz.com](www.nisrulz.com)
+
+![Nishant's Github Stats](https://github-readme-stats.vercel.app/api?username=nisrulz&count_private=true&theme=default&show_icons=true)
