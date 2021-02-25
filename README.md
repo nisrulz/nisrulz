@@ -9,4 +9,5 @@
 - ⚡️  &nbsp;Fun fact about me: I love playing 🕹&nbsp;retro games and survive on ☕️ instead of energy drinks 🙇🏻‍♂️ &nbsp;Possibly this is why I also talk a lot 🤔
 - 📫  &nbsp;Reach me [at] [nisrulz.com](https://www.nisrulz.com)
 
-![Nishant's Github Stats](https://github-readme-stats.vercel.app/api?username=nisrulz&count_private=true&theme=default&show_icons=true)
+### Github Stats
+![Nishant's Github Stats](https://metrics.lecoq.io/nisrulz?template=classic&repositories.forks=true&followup=1&introduction=1&languages=1&lines=1&introduction.title=true&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FBerlin&config.twemoji=true)
