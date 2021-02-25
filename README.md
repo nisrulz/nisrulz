@@ -10,4 +10,4 @@
 - 📫  &nbsp;Reach me [at] [nisrulz.com](https://www.nisrulz.com)
 
 ### Github Stats
-![Nishant's Github Stats](https://metrics.lecoq.io/nisrulz?template=classic&repositories.forks=true&followup=1&introduction=1&languages=1&lines=1&introduction.title=true&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FBerlin&config.twemoji=true)
+![Metrics](https://github.com/nisrulz/nisrulz/blob/master/github-metrics.svg)
