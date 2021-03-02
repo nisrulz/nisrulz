@@ -10,5 +10,9 @@
 - 📫  &nbsp;Reach me [at] [nisrulz.com](https://www.nisrulz.com)
 - ☕️ &nbsp;You can support me in maintaining my open source work by [buying me a coffee](https://www.buymeacoffee.com/nisrulz) or [sponsoring me on GitHub](https://github.com/sponsors/nisrulz)&nbsp;🤗 
 
-### Github Stats
-![Metrics](https://github.com/nisrulz/nisrulz/blob/master/github-metrics.svg)
+<details>
+  <summary>Github Stats</summary>
+  <img align="left" alt="Nishant's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nisrulz&show_icons=true&hide_border=true" />
+  
+  <img align="left" alt="Nishant's GitHub Metric" src="https://github.com/nisrulz/nisrulz/blob/master/github-metrics.svg" />
+</details>
