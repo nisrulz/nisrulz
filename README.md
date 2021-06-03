@@ -10,7 +10,7 @@
 
 #### ✨ What I've been dabbling in
 - [Giving talks/sessions](https://crushingcode.nisrulz.com/talks/)
-- [Writing blog posts](https://crushingcode.nisrulz.com/archive/) [at] [Crushing C.O.D.E](https://crushingcode.nisrulz.com/) and [Raywenderlich.com](http://localhost:1313/posts/raywederlich-com-tutorials/)
+- [Writing blog posts](https://crushingcode.nisrulz.com/archive/) [at] [Crushing C.O.D.E](https://crushingcode.nisrulz.com/) and [Raywenderlich.com](https://crushingcode.nisrulz.com/posts/raywederlich-com-tutorials/)
 - [Writing/reviewing books](https://crushingcode.nisrulz.com/showcase/books/)
 - Developing/Writing code for
   - [Wearable's Firmware](https://web.archive.org/web/20191221211425/http://web.archive.org/screenshot/https://www.kickstarter.com/projects/352439100/soundbrenner-core-the-4-in-1-smart-music-tool)
