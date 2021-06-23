@@ -6,7 +6,7 @@
 - 🤗  &nbsp;Open-source enthusiast.
 - <img src=img/automate_all_things.jpg height=20 />&nbsp;Automate-All-Things-Person.
 - <img src="img/mario.gif" height=20 />&nbsp;Retro gamer
-- 📫  &nbsp;Reach me [at] [nisrulz.com](https://www.nisrulz.com)
+- 📫  &nbsp;Reach me [at] [nisrulz.com](https://www.nisrulz.com) | [Twitter](https://twitter.com/nisrulz)
 
 #### ✨ What I've been dabbling in
 - [Giving talks/sessions](https://crushingcode.nisrulz.com/talks/)
