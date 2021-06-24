@@ -1473,7 +1473,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="302.56 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="302.87 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1509,7 +1509,7 @@
                     </span>
                   
                 </div>
-                                <div class="text">Maintaining a repository which has been forked 1476 times</div>
+                                <div class="text">Maintaining a repository which has been forked 1477 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1586,7 +1586,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="120.63198068147513 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="120.64258545747718 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1724,7 +1724,7 @@
                   Super maintainer
                   
                     <span class="gh">
-                      ranked 4.48k out of 237m repositories
+                      ranked 4.49k out of 237m repositories
                     </span>
                   
                 </div>
@@ -1993,7 +1993,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated Thu, 24 Jun 2021 08:01:48 (timezone Europe/Berlin) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Thu, 24 Jun 2021 11:01:36 (timezone Europe/Berlin) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
