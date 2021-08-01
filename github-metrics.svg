@@ -1452,7 +1452,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="483.6 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="483.28999999999996 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1494,7 +1494,7 @@
                     </span>
                   
                 </div>
-                                <div class="text">Followed by 2060 users</div>
+                                <div class="text">Followed by 2059 users</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1620,7 +1620,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="123.89137767012305 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="123.90202806043887 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1682,7 +1682,7 @@
                   Super developer
                   
                     <span class="gh">
-                      ranked 274k out of 74m users
+                      ranked 275k out of 74m users
                     </span>
                   
                 </div>
@@ -2027,7 +2027,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 01/08/2021, 17:04 (timezone Europe/Berlin) with lowlighter/metrics@3.11.0</span>
+                <span>Last updated 01/08/2021, 20:04 (timezone Europe/Berlin) with lowlighter/metrics@3.11.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
