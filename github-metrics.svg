@@ -1691,7 +1691,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="215.14 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="215.24333333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1714,7 +1714,7 @@
                   
                   
                 </div>
-                                <div class="text">Repositories have been deployed 3082 times</div>
+                                <div class="text">Repositories have been deployed 3083 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -2355,7 +2355,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Nov 2021, 19:02:10 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 28 Nov 2021, 22:01:24 (timezone Europe/Berlin) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
