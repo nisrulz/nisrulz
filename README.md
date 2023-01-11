@@ -26,6 +26,4 @@
 <details>
   <summary>Github Stats</summary>
   <img align="left" alt="Nishant's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nisrulz&show_icons=true&hide_border=true" />
-  
-  <img align="left" alt="Nishant's GitHub Metric" src="https://github.com/nisrulz/nisrulz/blob/master/github-metrics.svg" />
 </details>
