@@ -21,9 +21,8 @@
   - [Android applications](https://crushingcode.nisrulz.com/showcase/android_apps/)
   - [Web app to generate Mobile App's Privacy Policy/Terms & Conditions](https://app-privacy-policy-generator.nisrulz.com/)
 
-#### 👨🏻‍💻&nbsp;You can support me in maintaining my open source work by [buying me a coffee](https://www.buymeacoffee.com/nisrulz) or [sponsoring me on GitHub](https://github.com/sponsors/nisrulz)&nbsp;🤗 
+#### 👨🏻‍💻&nbsp;You can support me in maintaining my open source work by [buying me a coffee](https://www.buymeacoffee.com/nisrulz) or [sponsoring me on GitHub](https://github.com/sponsors/nisrulz)&nbsp;🤗
 
-<details>
-  <summary>Github Stats</summary>
-  <img align="left" alt="Nishant's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nisrulz&show_icons=true&hide_border=true" />
-</details>
+#### Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisrulz&theme=2077)
