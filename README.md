@@ -25,4 +25,4 @@
 
 #### Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisrulz&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nisrulz&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nisrulz&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nisrulz&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nisrulz&theme=2077)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nisrulz&theme=2077)
