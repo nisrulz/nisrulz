@@ -1,5 +1,4 @@
-<h3> Hi there 👋🏼, I'm <img src=img/title.png height=15 /> </h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handjet&weight=600&size=30&pause=2000&color=F78436&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Nishant+Srivastava;crushingcode.nisrulz.com)](https://git.io/typing-svg)
 #### 📃 About me
 - 👨🏻‍💻  &nbsp;Software Engineer.
 - 👨🏻‍🔬  &nbsp;Experimenting with technologies.
