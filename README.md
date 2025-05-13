@@ -9,15 +9,15 @@
 
 #### ✨ What I've been dabbling in
 - [Giving talks/sessions](https://crushingcode.nisrulz.com/talks/)
-- [Writing blog posts](https://crushingcode.nisrulz.com/archive/) [at] [Crushing C.O.D.E](https://crushingcode.nisrulz.com/) and [Kodeco.com (Raywenderlich.com)](https://crushingcode.nisrulz.com/posts/raywederlich-com-tutorials/)
-- [Writing/reviewing books](https://crushingcode.nisrulz.com/showcase/books/)
+- [Writing blog posts](https://crushingcode.nisrulz.com/blog/) [at] [Crushing C.O.D.E](https://crushingcode.nisrulz.com/) and [Kodeco.com (Raywenderlich.com)](https://crushingcode.nisrulz.com/blog/raywederlich-com-tutorials/)
+- [Writing/reviewing books](https://crushingcode.nisrulz.com/showcase/#bookstechnical-reviewer)
 - Developing/Writing code for
   - [Wearable's Firmware](https://web.archive.org/web/20191221211425/http://web.archive.org/screenshot/https://www.kickstarter.com/projects/352439100/soundbrenner-core-the-4-in-1-smart-music-tool)
   - Mobile SDK for enablintg DSP on device
     - Technology featured in [Techcrunch](https://techcrunch.com/2014/07/24/silverpush-audio-beacons/), [Business Today](https://web.archive.org/web/20180315123959/https://www.businesstoday.in/magazine/features/silverpushs-technology-lets-advertisers-reach-the-consumer-on-multiple-devices/story/206815.html) and [Live Mint](https://web.archive.org/web/20180315124010/http://www.livemint.com/Opinion/3QXskshem9l6fcbfAkqmUO/New-ways-to-count-viewers.html).
-    - [Pulblished Patents](https://crushingcode.nisrulz.com/showcase/patents/)
-  - [Multiple Mobile SDKs for solving problems on<img src=img/android.png height=20 />platform](https://crushingcode.nisrulz.com/showcase/android_library/)
-  - [Android applications](https://crushingcode.nisrulz.com/showcase/android_apps/)
+    - [Pulblished Patents](https://crushingcode.nisrulz.com/showcase/#published-patents)
+  - [Multiple Mobile SDKs for solving problems on<img src=img/android.png height=20 />platform](https://crushingcode.nisrulz.com/showcase/#ossandroid-libraries)
+  - [Android applications](https://crushingcode.nisrulz.com/showcase/#android-apps)
   - [Web app to generate Mobile App's Privacy Policy/Terms & Conditions](https://app-privacy-policy-generator.nisrulz.com/)
 
 #### 👨🏻‍💻&nbsp;You can support me in maintaining my open source work by [buying me a coffee](https://www.buymeacoffee.com/nisrulz) or [sponsoring me on GitHub](https://github.com/sponsors/nisrulz)&nbsp;🤗
